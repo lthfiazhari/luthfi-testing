@@ -1,7 +1,9 @@
 luthfi resolusi
 -saya ingin konsisten belajar tentang pemrograman yang sedang saya ikuti
 -belajar html dasar
-belajar css dan kegunaannya
-belajar membuat git 
-menggunakan git dengan membuat markdown dan membuat README.txt
-mempelajari penggunakan branch pada git
+-belajar css dan kegunaannya
+-belajar membuat git 
+-menggunakan git dengan membuat markdown dan membuat README.txt
+-mempelajari penggunakan branch pada git
+-belajar membuat web sederhana
+-belajar java script
