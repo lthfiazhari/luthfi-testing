@@ -7,3 +7,4 @@ luthfi resolusi
 -mempelajari penggunakan branch pada git
 -belajar membuat web sederhana
 -belajar java script
+-ingnin belajar node.js
