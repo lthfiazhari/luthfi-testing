@@ -1,3 +1,4 @@
 menguasai js
 menguasai database
 memahami react native
+mempelajari json
