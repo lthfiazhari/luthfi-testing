@@ -1,2 +1,3 @@
 menguasai js
 menguasai database
+memahami react native
